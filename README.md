@@ -107,7 +107,6 @@ This analysis offers key insights into used car pricing trends and can help pote
 ## Prerequisites
 
 ```bash
-
    pip install numpy pandas matplotlib seaborn plotly scikit-learn
 
 
