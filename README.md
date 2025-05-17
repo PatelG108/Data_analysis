@@ -12,9 +12,9 @@ A comprehensive data analysis project on **Used Car Sales** using Python librari
 - [Dataset](#dataset)
 - [Key Analysis & Insights](#key-analysis--insights)
 - [Visualizations](#visualizations)
-- [How to Run](#how-to-run)
 - [Conclusion](#conclusion)
 - [Author](#author)
+- [Prerequisites](#Prerequisites)
 
 ---
 
@@ -93,4 +93,21 @@ Here are some of the visualizations generated in this project:
 - Box plot
 - KDE plot
 
----
+## conclusion
+
+This analysis offers key insights into used car pricing trends and can help potential buyers, sellers, or dealerships make informed decisions. The visualizations provide a clear understanding of how different features influence car prices.
+
+## author
+
+- Amit kumar
+
+- https://www.linkedin.com/in/amit-kumar-c/
+
+
+## Prerequisites
+
+```bash
+
+   pip install numpy pandas matplotlib seaborn plotly scikit-learn
+
+
